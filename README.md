@@ -25,3 +25,9 @@ There are three technical deliverables for this assignment:
 * HTML
 * Bootstrap
 * Flask
+
+- - - -
+
+## Team:
+
+* Collaborated with Shruti Ramana
